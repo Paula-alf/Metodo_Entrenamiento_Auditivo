@@ -14,6 +14,7 @@
 }
 
 #QuienesSomos h4, #QuienesSomos div:last-child{
+  background-color:#7a4667
   font-family: "Courier Prime";
   line-height: 2;
 }
