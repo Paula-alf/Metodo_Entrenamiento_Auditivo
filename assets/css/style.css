@@ -9,12 +9,12 @@
 /* Quienes Somos*/
 
 #QuienesSomos{
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 #QuienesSomos h4, #QuienesSomos div:last-child{
-  background-color: #000000;
+  background-color: #ffffff;
   font-family: "Courier Prime";
   line-height: 2;
 }
